@@ -27,3 +27,5 @@ MYSQL_DB=seu_banco_de_dados
 
 Alterado.
 Mais uma funcionalidade
+Mais uma funcionalidade
+Mais uma funcionalidade
