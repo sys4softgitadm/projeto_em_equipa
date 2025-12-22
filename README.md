@@ -26,3 +26,4 @@ MYSQL_DB=seu_banco_de_dados
 - W3Schools [Guia de CSS](https://www.w3schools.com/css/)
 
 Alterado.
+Mais uma funcionalidade
