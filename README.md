@@ -24,3 +24,5 @@ MYSQL_DB=seu_banco_de_dados
 - Font Awesome [Ícones](https://fontawesome.com/icons)
 - W3Schools [Guia de HTML](https://www.w3schools.com/html/)
 - W3Schools [Guia de CSS](https://www.w3schools.com/css/)
+
+Alterado.
