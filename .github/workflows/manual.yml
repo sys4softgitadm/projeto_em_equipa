@@ -1,0 +1,9 @@
+name: Acao Manual
+on:
+  workflow_dispatch:
+jobs:
+  manual_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Workflow Manual
+        run: echo "Esta acao foi executada manualmente"
